@@ -14,7 +14,7 @@ xsetwacom set "Tablet Monitor Pad pad" button 9 key P
 xsetwacom set "Tablet Monitor Pad pad" button 10 key E
 xsetwacom set "Tablet Monitor Pad pad" button 11 key B
 xsetwacom set "Tablet Monitor Pad pad" button 12 key +space
-xsetwacom set "Tablet Monitor Pad pad" button 13 key Ctrl Shift +plus
-xsetwacom set "Tablet Monitor Pad pad" button 14 key Ctrl +minus
+xsetwacom set "Tablet Monitor Pad pad" button 13 key Ctrl +minus
+xsetwacom set "Tablet Monitor Pad pad" button 14 key Ctrl Shift +plus
 xsetwacom set "Tablet Monitor Pad pad" button 15 key +bracketleft
 xsetwacom set "Tablet Monitor Pad pad" button 16 key +bracketright
