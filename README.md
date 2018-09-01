@@ -23,6 +23,10 @@ to `/usr/share/X11/xorg.conf.d/70-wacom.conf`
 * Restart computer
 * Run `./xsetwacom-krita-config.sh` to set buttons to Krita shortcuts
 
+## Resources
+
+* [xsetwacom manual](https://www.mankier.com/1/xsetwacom)
+
 ## License
 
 Linux Huion Config is released under the MIT License. See license.txt for more details.
